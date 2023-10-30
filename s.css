@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+body {background: yellow !important;}
+p {color: brown; font-size: 18px !important;}
+p::first-line {color: red; font-size: 36px;}
